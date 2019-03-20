@@ -7,7 +7,7 @@ return [
     'per_page' => 15,
 
     /*
-     * Default results per page
+     * Default results max per page
      */
     'max_per_page' => 500,
 ];
